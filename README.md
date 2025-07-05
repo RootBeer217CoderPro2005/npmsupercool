@@ -15,3 +15,5 @@ A small NPM package that reveals a hidden link for the WoahSINT CTF.
    ```
 
 The link will be displayed and automatically opened in your browser.
+
+![0705.gif](0705.gif)
