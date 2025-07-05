@@ -1,0 +1,16 @@
+{
+  "name": "woahsint-link",
+  "version": "1.0.0",
+  "description": "A simple hint for WoahSINT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["woahsint", "ctf", "hint", "link"],
+  "author": "RootBeer217CoderPro2005",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "open": "^8.4.0"
+  }
+}
